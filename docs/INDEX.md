@@ -5,4 +5,4 @@
 - [Tickets](tickets.md)
 - [Scripts](scripts.md)
 - [Secrets](secrets.md)
-- [Deployment](deployment.md)
+- [Usage](usage.md)
